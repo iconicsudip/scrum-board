@@ -1,8 +1,7 @@
 {
   "name": "scrum_board",
-  "homepage": "http://sprint.ml-bench.com/",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "dateformat": "^5.0.3",
     "firebase": "^9.16.0",
